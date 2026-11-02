@@ -24,49 +24,6 @@ The scripts are grouped by academic period and activity type:
 - Finals: stacks, queues, recursion, sorting algorithms, and tree structures
 - Badging Activity: final and badge-related assessments
 
-## Repository Structure
-
-```text
-Python_Dsalgo/
-├── Prelim/
-│   ├── FileHandling/
-│   ├── One-Dimensional Arrays/
-│   ├── Two-Dimensional Arrays/
-│   └── PrelimLab/
-├── Midterm/
-│   ├── LinkedList/
-│   ├── CircularLinkedList/
-│   └── DoublyLinkedList/
-├── Finals/
-│   ├── Stack-Queue/
-│   ├── Stacks/
-│   ├── Queue/
-│   ├── Recursions/
-│   ├── MergeSort/
-│   ├── QuickSorting/
-│   ├── BinaryTree/
-│   ├── BinaryTreeTraversal/
-│   └── BinaryTreeSearch/
-├── BadgingActivity/
-│   ├── PrelimExam-Badging/
-│   ├── MidtermExam-Badging/
-│   └── FinalExam/
-└── README.md
-```
-
-## How to Run
-
-Each script is a standalone Python file. You can run it with:
-
-```bash
-python "path/to/file.py"
-```
-
-Example:
-
-```bash
-python "Finals/QuickSorting/QuickSorting.py"
-```
 
 ## Purpose
 
@@ -77,9 +34,6 @@ This project is intended for:
 - reviewing common data structures and algorithm implementations
 - serving as an educational portfolio of coding exercises
 
-## Short GitHub Description
-
-Python DSA activities and school lab exercises covering arrays, linked lists, stacks, queues, recursion, sorting, and trees.
 
 ## Notes
 
